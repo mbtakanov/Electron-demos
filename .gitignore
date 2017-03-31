@@ -1,0 +1,5 @@
+**/node_modules
+**/vendor
+
+Photobombth-*
+**/debug.log
